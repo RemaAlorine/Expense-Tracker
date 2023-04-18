@@ -16,7 +16,7 @@ charts on period/category basis.</h3>
 
 
 
-<h2> The first activity:<h2>
+<h2> The first activity:</h2>
 <p>○ A text field that captures the user initial balance value.</p>
 <p>○ A Submit button: when it is pressed, the system saves this information using shared prefs
 , and opens the budget reporting criteria.
