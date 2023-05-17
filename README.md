@@ -10,7 +10,7 @@ After filling his initial balance, a user will be able to view and to track his 
 outcomes. The type, category, amount, and date of one operation will be automatically 
 extracted from the bank SMS received by the user’s phone. Then, these details of 
 expenses (incomes/outcomes) will be summarized and illustrated using pie/bar 
-charts on period/category basis.</h3>
+charts on period/category basis. </h3>
 
 <img src="https://user-images.githubusercontent.com/114349246/232674630-ac972062-82df-4a86-849a-d0ac0be40fa4.png" alt="Alt text" title="App">
 
